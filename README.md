@@ -10,7 +10,7 @@
 
 **This App uses a Replit free plan, so I am afraid that it takes time to load the pages.**
 
-Check out [FRONTEND LIVE DEMO]() here!!
+Check out [FRONTEND LIVE DEMO](https://spotifyclonegd.spotifyclone1.repl.co/) here!!
 
 ## Features
 
