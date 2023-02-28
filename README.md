@@ -4,7 +4,8 @@
 songs in a single click.
 ```
 
-![Screenshot](public/screenshot.png?raw=true)
+![Screenshot] <img width="1418" alt="Screenshot 2023-02-28 at 1 53 23 PM" src="https://user-images.githubusercontent.com/109030441/221795625-8236bfb7-f2c0-4392-8ecb-c840e20d98d5.png">
+
 
 ## Live Demo
 
