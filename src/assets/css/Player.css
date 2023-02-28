@@ -1,0 +1,41 @@
+#player {
+  grid-column: 1/13;
+  grid-row: 8/9;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  background-color: #00abae;
+  flex-wrap: wrap;
+  position: sticky;
+  bottom: 0;
+}
+
+i.fas,
+svg {
+  color: #0e0e0f;
+  font-size: 1.5rem;
+  margin: 0px 3rem;
+  transition: all 0.19s ease-in-out;
+}
+#active > svg {
+  color: #00abae;
+}
+i.fas.fa-play-circle,
+i.fas.fa-pause-circle {
+  font-size: 3rem;
+}
+.control,
+.main-control > i {
+  color: #0a0a0b;
+}
+
+.main-control > i:hover,
+.control > svg:hover {
+  color: #e2e8f0;
+}
+
+i:hover,
+svg:hover {
+  transform: scale(2);
+}
